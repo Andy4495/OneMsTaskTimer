@@ -20,12 +20,10 @@ The library source code (OneMsTaskTimer.cpp and OneMsTaskTimer.h) is licensed un
 The example sketches (OneMsTaskTimerBlink.ino and OneMsTaskTimerBlink_1ms.ino) are in the public domain.
 
 [1]: https://energia.nu
-[2]: https://energia.nu/guide/libraries/
-[3]: https://github.com/robertinant/EnergiaNG
 [4]: https://github.com/robertinant/EnergiaNG/tree/master/libraries/OneMsTaskTimer
 [6]: https://arduino.github.io/arduino-cli/0.21/platform-specification/
 [100]: https://www.gnu.org/licenses/licenses.html#LGPL
 [102]: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
-[200]: https://github.com/Andy4495/OneMsTaskTimer
+[//]: # ([200]: https://github.com/Andy4495/OneMsTaskTimer)
 
 [//]: # (This is a way to hack a comment in Markdown. This will not be displayed when rendered.)
