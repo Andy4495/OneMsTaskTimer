@@ -21,7 +21,7 @@ The example sketches (OneMsTaskTimerBlink.ino and OneMsTaskTimerBlink_1ms.ino) a
 
 [1]: https://energia.nu
 [4]: https://github.com/robertinant/EnergiaNG/tree/master/libraries/OneMsTaskTimer
-[6]: https://arduino.github.io/arduino-cli/0.21/platform-specification/
+[6]: https://github.com/Andy4495/TI_Platform_Cores_For_Arduino
 [100]: https://www.gnu.org/licenses/licenses.html#LGPL
 [102]: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
 [//]: # ([200]: https://github.com/Andy4495/OneMsTaskTimer)
