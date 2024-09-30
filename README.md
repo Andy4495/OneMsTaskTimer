@@ -1,7 +1,7 @@
 # OneMsTaskTimer Library
 
 [![Arduino Compile Sketches](https://github.com/Andy4495/OneMsTaskTimer/actions/workflows/arduino-compile-sketches.yml/badge.svg)](https://github.com/Andy4495/OneMsTaskTimer/actions/workflows/arduino-compile-sketches.yml)
-[![Check Markdown Links](https://github.com/Andy4495/OneMsTaskTimer/actions/workflows/CheckMarkdownLinks.yml/badge.svg)](https://github.com/Andy4495/OneMsTaskTimer/actions/workflows/CheckMarkdownLinks.yml)
+[![Check Markdown Links](https://github.com/Andy4495/OneMsTaskTimer/actions/workflows/check-links.yml/badge.svg)](https://github.com/Andy4495/OneMsTaskTimer/actions/workflows/check-links.yml)
 
 This is a copy of the [OneMsTaskTimer library][4] that is included with the [Energia application][1].
 
