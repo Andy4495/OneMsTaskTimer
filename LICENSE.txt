@@ -1,0 +1,7 @@
+The library source code (OneMsTaskTimer.cpp and OneMsTaskTimer.h) is licensed 
+under the terms of the GNU Lesser General Public License as published 
+by the Free Software Foundation; either version 2.1of the License, or (at your 
+option) any later version.
+
+The example sketches (OneMsTaskTimerBlink.ino and OneMsTaskTimerBlink_1ms.ino) 
+are in the public domain.
